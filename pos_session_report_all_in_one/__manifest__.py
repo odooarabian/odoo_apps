@@ -6,7 +6,7 @@
   "version": "11.0.0.0.1",
   "application": False,
   "author": "ERP World",
-  "website" : "https://www.erpworld.ml",
+  "website" : "http://www.erpworld.ml",
   "support": "odoo_erp@zoho.com",
   "license": "LGPL-3",
   "depends" : ['point_of_sale','mail',],
